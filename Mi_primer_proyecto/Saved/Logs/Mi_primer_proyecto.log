@@ -1,0 +1,118 @@
+﻿[2015.06.27-18.22.20:177][  0]Log file open, 06/27/15 20:22:20
+[2015.06.27-18.22.20:177][  0]LogInit:Display: Running engine for game: Mi_primer_proyecto
+[2015.06.27-18.22.20:177][  0]LogInit:Display: RandInit(1388391760) SRandInit(1388391760).
+[2015.06.27-18.22.20:177][  0]LogTaskGraph: Started task graph with 4 named threads and 6 total threads.
+[2015.06.27-18.22.20:177][  0]LogStats: Stats thread started
+[2015.06.27-18.22.20:177][  0]LogInit: Version: 4.8.1-2591939+++depot+UE4-Releases+4.8
+[2015.06.27-18.22.20:177][  0]LogInit: API Version: 2579680
+[2015.06.27-18.22.20:177][  0]LogInit: Compiled (64-bit): Jun 18 2015 11:02:04
+[2015.06.27-18.22.20:177][  0]LogInit: Compiled with Visual C++: 18.00.21005.01
+[2015.06.27-18.22.20:177][  0]LogInit: Build Configuration: Development
+[2015.06.27-18.22.20:177][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.8
+[2015.06.27-18.22.20:177][  0]LogInit: Command line: 
+[2015.06.27-18.22.20:177][  0]LogInit: Base directory: F:/Archivos de programa/Epic Games/4.8/Engine/Binaries/Win64/
+[2015.06.27-18.22.20:177][  0]LogInit: Rocket: 1
+[2015.06.27-18.22.20:205][  0]LogInit: Using libcurl 7.41.0
+[2015.06.27-18.22.20:205][  0]LogInit:  - built for x86_64-pc-win32
+[2015.06.27-18.22.20:205][  0]LogInit:  - supports SSL with WinSSL
+[2015.06.27-18.22.20:205][  0]LogInit:  - other features:
+[2015.06.27-18.22.20:205][  0]LogInit:      CURL_VERSION_SSL
+[2015.06.27-18.22.20:205][  0]LogInit:      CURL_VERSION_IPV6
+[2015.06.27-18.22.20:205][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2015.06.27-18.22.20:205][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2015.06.27-18.22.20:205][  0]LogInit:      CURL_VERSION_IDN
+[2015.06.27-18.22.20:205][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2015.06.27-18.22.20:205][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2015.06.27-18.22.20:205][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2015.06.27-18.22.20:205][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2015.06.27-18.22.20:205][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2015.06.27-18.22.20:236][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.06.27-18.22.20:264][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.06.27-18.22.20:276][  0]LogInit: Object subsystem initialized
+[2015.06.27-18.22.20:284][  0]LogInit: Selected Device Profile: [Windows]
+[2015.06.27-18.22.20:284][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.06.27-18.22.20:293][  0]LogInit: Computer: VICTOR-PC
+[2015.06.27-18.22.20:293][  0]LogInit: User: victor
+[2015.06.27-18.22.20:293][  0]LogInit: CPU Page size=4096, Cores=3
+[2015.06.27-18.22.20:293][  0]LogInit: High frequency timer resolution =3.735908 MHz
+[2015.06.27-18.22.20:293][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2015.06.27-18.22.20:293][  0]LogMemory: Platform Memory Stats for Windows
+[2015.06.27-18.22.20:293][  0]LogMemory: Process Physical Memory: 50.09 MB used, 50.09 MB peak
+[2015.06.27-18.22.20:293][  0]LogMemory: Process Virtual Memory: 24.14 MB used, 24.14 MB peak
+[2015.06.27-18.22.20:294][  0]LogMemory: Physical Memory: 4734.17 MB used, 8173.24 MB total
+[2015.06.27-18.22.20:294][  0]LogMemory: Virtual Memory: 285.28 MB used, 8388608.00 MB total
+[2015.06.27-18.22.20:358][  0]LogTextLocalizationManager: The requested culture ('es_ES') has no localization data; parent culture's ('es') localization data will be used.
+[2015.06.27-18.22.20:545][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Localization Resource: (F:/Archivos de programa/Epic Games/4.8/Engine/Content/Localization/Editor/es/Editor.locres) Source String Hash: (-630476809) Localized String: (Importar a {0}...)
+Localization Resource: (F:/Archivos de programa/Epic Games/4.8/Engine/Content/Localization/Editor/es/Editor.locres) Source String Hash: (1271782899) Localized String: (Importa un activo desde el archivo a esta carpeta.)
+[2015.06.27-18.22.21:067][  0]LogD3D11RHI: Found D3D11 adapter 0: AMD Radeon HD 7800 Series (Feature Level 11_0)
+[2015.06.27-18.22.21:067][  0]LogD3D11RHI: Adapter has 2027MB of dedicated video memory, 0MB of dedicated system memory, and 3830MB of shared system memory, 1 output[s]
+[2015.06.27-18.22.21:067][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.06.27-18.22.21:082][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.06.27-18.22.21:089][  0]LogD3D11RHI: Async texture creation disabled: no driver support
+[2015.06.27-18.22.21:101][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2015.06.27-18.22.22:543][  0]LogTemp:Display: Loaded TP DesktopTargetPlatform
+[2015.06.27-18.22.22:569][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2015.06.27-18.22.22:596][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2015.06.27-18.22.22:623][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2015.06.27-18.22.22:653][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2015.06.27-18.22.22:677][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2015.06.27-18.22.22:701][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2015.06.27-18.22.22:726][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2015.06.27-18.22.22:750][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2015.06.27-18.22.22:775][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2015.06.27-18.22.22:799][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2015.06.27-18.22.22:824][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2015.06.27-18.22.22:906][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2015.06.27-18.22.22:929][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2015.06.27-18.22.22:953][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2015.06.27-18.22.22:981][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2015.06.27-18.22.22:981][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.06.27-18.22.23:398][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.06.27-18.22.23:484][  0]LogDerivedDataCache: Loaded boot cache 0.09s 53MB C:/Users/victor/AppData/Local/UnrealEngine/4.8/DerivedDataCache/Boot.ddc.
+[2015.06.27-18.22.23:484][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/victor/AppData/Local/UnrealEngine/4.8/DerivedDataCache/Boot.ddc
+[2015.06.27-18.22.23:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UDK/Mi_primer_proyecto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.06.27-18.22.23:484][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.06.27-18.22.23:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UDK/Mi_primer_proyecto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2015.06.27-18.22.23:484][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2015.06.27-18.22.23:652][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.06.27-18.22.23:664][  0]LogDerivedDataCache: Using Local data cache path C:/Users/victor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.06.27-18.22.24:006][  0]LogInit: Selected Device Profile: [Windows]
+[2015.06.27-18.22.24:016][  0]ImportText (ComponentSweepMultiTests): Missing closing parenthesis: (RootShapeAsset="/Engine/BasicShapes/Cube.Cube",ShapeType="TriggerCapsule",HitResult=(Time=0.50,Location=(X=-100.000015,Y=0.0,Z=100.000015),ImpactPoint=(X=-50.0,Y=0.0,Z=50.0),Normal=(X=-1.0,Y=-0.0,Z=0.0),ImpactNormal=(X=0.0,Y=0.0,Z=1.0),TraceStart=(X=-200.0,Y=0.0,Z=200.0),TraceEnd=(X=0.0,Y=0.0,Z=0.0))
+[2015.06.27-18.22.24:016][  0]ImportText (LineTraceSingleByChannelTests): Missing closing parenthesis: (RootShapeAsset="/Engine/BasicShapes/Cube.Cube",HitResult=(Time=0.50,Location=(X=-100.000015,Y=0.0,Z=100.000015),ImpactPoint=(X=-50.0,Y=0.0,Z=50.0),Normal=(X=-1.0,Y=-0.0,Z=0.0),ImpactNormal=(X=0.0,Y=0.0,Z=1.0),TraceStart=(X=-200.0,Y=0.0,Z=200.0),TraceEnd=(X=0.0,Y=0.0,Z=0.0))
+[2015.06.27-18.22.24:066][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.06.27-18.22.24:066][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.06.27-18.22.24:698][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.06.27-18.22.26:482][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.06.27-18.22.27:060][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.06.27-18.22.27:145][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.06.27-18.22.27:166][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.06.27-18.22.27:186][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.06.27-18.22.27:645][  0]LogObj: 26273 objects as part of root set at end of initial load.
+[2015.06.27-18.22.27:645][  0]LogUObjectAllocator: 5409248 out of 0 bytes used by permanent object pool.
+[2015.06.27-18.22.27:754][  0]LogEngine: Initializing Engine...
+[2015.06.27-18.22.27:760][  0]LogHMD: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.6.0.0
+[2015.06.27-18.22.27:775][  0]LogHMD:Warning: SteamVR failed to initialize.  Error: 108
+[2015.06.27-18.22.28:015][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.06.27-18.22.28:038][  0]LogInit: XAudio2 using 'Salida digital (ASUS Xonar DX Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2015.06.27-18.22.28:046][  0]LogInit: FAudioDevice initialized.
+[2015.06.27-18.22.28:094][  0]LogDerivedDataCache: Saved boot cache 0.05s 53MB C:/Users/victor/AppData/Local/UnrealEngine/4.8/DerivedDataCache/Boot.ddc.
+[2015.06.27-18.22.28:104][  0]LogInit: Texture streaming: Disabled
+[2015.06.27-18.22.28:153][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.06.27-18.22.28:153][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.8.1-2591939+++depot+UE4-Releases+4.8
+[2015.06.27-18.22.28:153][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId aa43bba343ab901f1c74c38297bc9bfe|3e2c49aa9326440bbb63af905aea2b26|aedd35d7-614f-471e-9d7c-dbd8eddbd3cd
+[2015.06.27-18.22.28:153][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2015.06.27-18.22.28:221][  0]LogInit: Transaction tracking system initialized
+[2015.06.27-18.22.28:572][  0]BlueprintLog: New page: Cargar el editor
+[2015.06.27-18.22.28:643][  0]LogAssetRegistry: FAssetRegistry took 0.0098 seconds to start up
+[2015.06.27-18.22.28:643][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.06.27-18.22.31:733][  0]LogConsoleManager:Warning: Console variable 'r.VSync' wasn't set ('GameSetting' has a lower priority than 'SystemSettingsIni')
+[2015.06.27-18.22.31:734][  0]LogConsoleResponse:Display: 
+[2015.06.27-18.22.31:885][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.06.27-18.22.32:251][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.06.27-18.22.32:251][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.06.27-18.22.32:252][  0]LightingResults: New page: Diseñar la iluminación
+[2015.06.27-18.22.32:276][  0]MapCheck: New page: Revisión del mapa
+[2015.06.27-18.22.32:276][  0]LightingResults: New page: Diseñar la iluminación
+[2015.06.27-18.22.32:293][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001573EF20
+[2015.06.27-18.22.33:119][  0]LogAIModule: Cre
